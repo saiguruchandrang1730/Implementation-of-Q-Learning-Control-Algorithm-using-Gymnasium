@@ -9,9 +9,12 @@ To implement the **Q-Learning control algorithm** using the Gymnasium `FrozenLak
 ## Problem Statement
 
 
-
 ## Software Requirements
-
+- Python 3.x
+- Google Colab or Jupyter Notebook
+- Gymnasium
+- NumPy
+- Matplotlib
 
 
 ## Environment Description
